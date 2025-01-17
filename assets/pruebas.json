@@ -1,26 +1,62 @@
 [
-    {
-        "id": 1,
-        "prueba": "toma 2 sorbos"
-    },
-    {
-        "id": 2,
-        "prueba": "toma 3 sorbos"
-    },
-    {
-        "id": 3,
-        "prueba": "toma la persona de la izquierda"
-    },
-    {
-        "id": 4,
-        "prueba": "toma el que se se ha hehco un tatuaje"
-    },
-    {
-        "id": 4,
-        "prueba": "toma el que se se ha hehco un tatuaje"
-    },
-    {
-        "id": 5,
-        "prueba": "Nunca he sido infiel"
-    }
+    {"id": 1, "prueba": "Bebe 2 tragos si alguna vez has mentido sobre tu edad."},
+    {"id": 2, "prueba": "Elige a alguien para que beba 3 tragos contigo."},
+    {"id": 3, "prueba": "Todos los jugadores que usan gafas deben beber 1 trago."},
+    {"id": 4, "prueba": "Imita a otro jugador hasta que alguien adivine quién es. Si no lo hacen, bebe 2 tragos."},
+    {"id": 5, "prueba": "Cuenta un secreto embarazoso. Si te niegas, bebe 3 tragos."},
+    {"id": 6, "prueba": "Todos los jugadores con pelo largo beben 2 tragos."},
+    {"id": 7, "prueba": "Haz 10 flexiones. Si no puedes, bebe 4 tragos."},
+    {"id": 8, "prueba": "El último jugador que toque su nariz bebe 2 tragos."},
+    {"id": 9, "prueba": "Dale un apodo gracioso al jugador de tu izquierda. Si no lo haces, bebe 1 trago."},
+    {"id": 10, "prueba": "Bebe 2 tragos si alguna vez has robado algo."},
+    {"id": 11, "prueba": "Intercambia un artículo de ropa con otro jugador. Si no lo haces, bebe 3 tragos."},
+    {"id": 12, "prueba": "Todos los que usen calcetines blancos beben 1 trago."},
+    {"id": 13, "prueba": "Haz una cara graciosa y manténla durante 15 segundos. Si no lo haces, bebe 2 tragos."},
+    {"id": 14, "prueba": "Todos los jugadores mayores de 25 años beben 2 tragos."},
+    {"id": 15, "prueba": "Bebe 3 tragos si alguna vez te has quedado dormido en una clase o reunión."},
+    {"id": 16, "prueba": "Haz una confesión sobre una cita desastrosa. Si te niegas, bebe 2 tragos."},
+    {"id": 17, "prueba": "Canta el coro de una canción popular. Si no lo haces, bebe 3 tragos."},
+    {"id": 18, "prueba": "Imita a un animal durante 10 segundos. Si no lo haces, bebe 2 tragos."},
+    {"id": 19, "prueba": "Todos los que tienen tatuajes beben 2 tragos."},
+    {"id": 20, "prueba": "Cuenta tu última búsqueda en Google. Si te niegas, bebe 3 tragos."},
+    {"id": 21, "prueba": "Elige a un jugador para que tome 1 trago contigo."},
+    {"id": 22, "prueba": "Haz un reto de baile. Si no lo haces, bebe 2 tragos."},
+    {"id": 23, "prueba": "Todos los que estén usando un reloj beben 1 trago."},
+    {"id": 24, "prueba": "Si alguna vez has cantado en un karaoke, bebe 2 tragos."},
+    {"id": 25, "prueba": "Envía un emoji aleatorio a tu último contacto. Si no lo haces, bebe 3 tragos."},
+    {"id": 26, "prueba": "Elige a alguien para intercambiar asientos contigo. Ambos beben 1 trago."},
+    {"id": 27, "prueba": "Bebe 2 tragos si alguna vez te han expulsado de algún lugar."},
+    {"id": 28, "prueba": "Juega piedra, papel o tijera con el jugador a tu derecha. El perdedor bebe 2 tragos."},
+    {"id": 29, "prueba": "Cuenta la peor mentira que te han pillado. Si te niegas, bebe 2 tragos."},
+    {"id": 30, "prueba": "Si alguna vez has viajado solo, bebe 1 trago."},
+    {"id": 31, "prueba": "Ponte de pie y cuenta hasta 10 mientras haces sentadillas. Si no puedes, bebe 3 tragos."},
+    {"id": 32, "prueba": "Dale una palmada en la espalda al jugador a tu derecha. Ambos beben 1 trago."},
+    {"id": 33, "prueba": "El jugador con el teléfono más antiguo bebe 2 tragos."},
+    {"id": 34, "prueba": "Imita a un famoso y deja que los demás adivinen quién es. Si no lo hacen, bebe 3 tragos."},
+    {"id": 35, "prueba": "Bebe 2 tragos si alguna vez te has perdido en una ciudad desconocida."},
+    {"id": 36, "prueba": "Elige a alguien para intercambiar una prenda de ropa. Ambos beben 1 trago."},
+    {"id": 37, "prueba": "Haz un cumplido al jugador que está frente a ti. Si no lo haces, bebe 2 tragos."},
+    {"id": 38, "prueba": "Si alguna vez te has reído en un momento inapropiado, bebe 3 tragos."},
+    {"id": 39, "prueba": "Cuenta tu sueño más raro. Si te niegas, bebe 2 tragos."},
+    {"id": 40, "prueba": "Todos los que tienen una mascota beben 1 trago."},
+    {"id": 41, "prueba": "Baila por 15 segundos. Si no lo haces, bebe 2 tragos."},
+    {"id": 42, "prueba": "El jugador más joven bebe 3 tragos."},
+    {"id": 43, "prueba": "Todos los que están usando negro beben 1 trago."},
+    {"id": 44, "prueba": "Si alguna vez te has dormido viendo una película, bebe 2 tragos."},
+    {"id": 45, "prueba": "Cuenta una historia divertida. Si no lo haces, bebe 3 tragos."},
+    {"id": 46, "prueba": "Imita una escena de tu película favorita. Si no lo haces, bebe 2 tragos."},
+    {"id": 47, "prueba": "Todos los jugadores con el cabello teñido beben 2 tragos."},
+    {"id": 48, "prueba": "Bebe 1 trago por cada tatuaje que tengas."},
+    {"id": 49, "prueba": "Cuenta algo vergonzoso que hiciste de niño. Si te niegas, bebe 3 tragos."},
+    {"id": 50, "prueba": "Bebe 2 tragos si alguna vez te has olvidado el nombre de alguien importante."},
+    {"id": 51, "prueba": "Haz un sonido de animal y deja que los demás lo adivinen. Si no lo hacen, bebe 2 tragos."},
+    {"id": 52, "prueba": "El último jugador que hable debe beber 3 tragos."},
+    {"id": 53, "prueba": "Si alguna vez has roto algo y lo has escondido, bebe 2 tragos."},
+    {"id": 54, "prueba": "Todos los que usan reloj beben 1 trago."},
+    {"id": 55, "prueba": "Canta el estribillo de una canción al azar. Si no lo haces, bebe 2 tragos."},
+    {"id": 56, "prueba": "Si alguna vez te has saltado una clase o trabajo, bebe 3 tragos."},
+    {"id": 57, "prueba": "Imita el acento de otro país por 15 segundos. Si no lo haces, bebe 2 tragos."},
+    {"id": 58, "prueba": "Todos los que llevan algo rojo beben 1 trago."},
+    {"id": 59, "prueba": "Bebe 2 tragos si alguna vez has olvidado una fecha importante."},
+    {"id": 60, "prueba": "Elige a un jugador para que haga una pose graciosa contigo. Ambos beben 2 tragos."}
 ]
